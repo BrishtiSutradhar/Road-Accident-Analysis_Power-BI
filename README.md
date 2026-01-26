@@ -1,6 +1,6 @@
-#🛣️Road-Accident-Analysis_Power_Bi
+#📊Road-Accident-Analysis_Power_Bi
  
-# 📌📊 Project Overview
+# 📌🛣️ Project Overview
 
 This project focuses on building an interactive Road Accident Analysis Dashboard to analyze and compare road accident data for the years 2021 and 2022. The dashboard is designed to help stakeholders understand accident patterns, casualty trends, and key risk factors using clear KPIs and visual insights.
 The primary goal is to provide a year-over-year (YoY) comparison of accidents and casualties, enabling data-driven decision-making for road safety improvements and policy planning.
