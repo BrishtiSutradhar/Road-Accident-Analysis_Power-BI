@@ -1,45 +1,55 @@
-#📊Road-Accident-Analysis_Power_Bi
+# 📊Road-Accident-Analysis_Power_Bi
  
-# 📌🛣️ Project Overview
+# 🎯Project Overview
 
 This project focuses on building an interactive Road Accident Analysis Dashboard to analyze and compare road accident data for the years 2021 and 2022. The dashboard is designed to help stakeholders understand accident patterns, casualty trends, and key risk factors using clear KPIs and visual insights.
 The primary goal is to provide a year-over-year (YoY) comparison of accidents and casualties, enabling data-driven decision-making for road safety improvements and policy planning.
-The dashboard enables analysis by vehicle type, road type, location, lighting conditions, and urban vs rural areas.
-🌆🌙With intuitive visuals and comparisons, the project supports better understanding of accident patterns and helps drive data-informed road safety decisions 🚦🧠.
 
-# 📈 What This Dashboard Covers
+With intuitive visuals and comparisons, the project supports better understanding of accident patterns and helps drive data-informed road safety decisions.
 
-- 🛒 **Total Sales & Average Sales per Item**
-- 🍎 **Item Type Analysis** (Snacks, Dairy, Beverages, etc.)
-- 🏪 **Outlet Type & Size Breakdown**
-- 📍 **Location-wise Sales Performance** (Tier 1/2/3 cities)
-- 🧈 **Fat Content Segmentation** (Low Fat vs Regular)
-- ⭐ **Customer Rating and Item Visibility**
-- 📅 **Outlet Establishment Trends (2012–2022)**
+# 📈What This Dashboard Covers
+The dashboard delivers insights on the following key requirements:
 
 
-# 📊 Key Stats (Sample Data)
+# 📌Primary KPIs
 
-- **Total Sales**: $1.20M  
-- **Average Sales**: $141  
-- **Total Items Sold**: 9K+  
-- **Average Rating**: 4.0
+- Total Casualties for the current year with YoY growth
+- Total Accidents for the current year with YoY growth
+- Casualties by accident severity (Fatal, Serious, Slight) with YoY comparison
+
+ # 📌Secondary KPIs & Analysis
+
+- Casualties by **vehicle type**
+- Monthly **trend analysis** comparing current year vs previous year
+- Casualties by **road type**
+- Casualties by **area (Urban/Rural)**
+- Casualties by **light condition** (Day/Night)
+- Geographic analysis showing **casualties and accidents by location**
+
+# 📈Key Insights Enabled
+
+- Identification of **high-risk vehicle categories**
+- Comparison of **urban vs rural accident impact**
+- Understanding how **road types and lighting conditions** affect casualties 
+- Tracking **seasonal and monthly trends** in accidents
+- Visualizing accident concentration across **geographic locations**
+
+## 🛠 Tools & Technologies
+- **Power BI** – Data modeling, DAX calculations, and interactive dashboard creation
+- **Data Visualization** KPI cards, Multi-row card, area charts, donut charts, stacked bar charts, slicer, and maps
 
 
-## ✅ Project Goals
+## ✅ Outcome
 
-- Deliver clear, actionable business insights  
-- Improve operational understanding through data storytelling  
-- Enable management-level reporting through visual analytics  
-
+The final dashboard provides a single, consolidated view of road accident data, making complex datasets easy to explore and interpret. It supports analysts, policymakers, and stakeholders in identifying problem areas and prioritizing road safety measures effectively. 
 
 ## 📁  Files Included
 
 - **`Power BI file with complete report(original, with data)`**
--  <a href='https://github.com/BrishtiSutradhar/Powerbi-blinkit-sales-analysis/blob/main/BlinkIt%20Project.pbix'>BlinkIt-Grocery-Sales Project.pbix</a>
+-  <a href='https://github.com/BrishtiSutradhar/Powerbi-blinkit-sales-analysis/blob/main/BlinkIt%20Project.pbix'>Road_Accident_Dashboard_Analysis.pbix</a>
 
 - **`Data source used for the analysis `**
--  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Clean_Raw_Data.xlsx'> BlinkIT Grocery Data.xlsx </a>
+-  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Clean_Raw_Data.xlsx'> Road Accident Data.xlsx </a>
 
 - **` Exported version of the dashboard visuals `** 
 - <a href='https://github.com/BrishtiSutradhar/Powerbi-blinkit-sales-analysis/blob/main/BlinkIt%20Project.pdf'>exports/BlinkIt Project.pdf</a>
