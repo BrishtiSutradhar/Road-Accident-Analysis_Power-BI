@@ -46,10 +46,10 @@ The final dashboard provides a single, consolidated view of road accident data, 
 ## 📁  Files Included
 
 - **`Power BI file with complete report(original, with data)`**
--  <a href='https://github.com/BrishtiSutradhar/Powerbi-blinkit-sales-analysis/blob/main/BlinkIt%20Project.pbix'>Road_Accident_Dashboard_Analysis.pbix</a>
+-  <a href='https://github.com/BrishtiSutradhar/Road-Accident-Analysis_Power-BI/blob/main/Road_Accident_Dashboard_Analysis.pbix'>Road_Accident_Dashboard_Analysis.pbix</a>
 
 - **`Data source used for the analysis `**
--  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Clean_Raw_Data.xlsx'> Road Accident Data.xlsx </a>
+-  <a href='https://github.com/BrishtiSutradhar/Road-Accident-Analysis_Power-BI/blob/main/Road%20Accident%20Data.xlsx'> Road Accident Data.xlsx </a>
 
 - **` Exported version of the dashboard visuals `** 
 - <a href='https://github.com/BrishtiSutradhar/Powerbi-blinkit-sales-analysis/blob/main/BlinkIt%20Project.pdf'>exports/BlinkIt Project.pdf</a>
@@ -66,9 +66,6 @@ Preview visuals available in [`exports/Power_BI_Foundever_Final_Report_PDF.pdf`]
 
 ---
 
-## 📄 License
-
-MIT License. Feel free to reuse and modify for your own data reporting needs.
 
 ---
 
