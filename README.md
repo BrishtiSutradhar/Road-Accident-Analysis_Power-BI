@@ -51,10 +51,9 @@ The final dashboard provides a single, consolidated view of road accident data, 
 - **`Data source used for the analysis `**
 -  <a href='https://github.com/BrishtiSutradhar/Road-Accident-Analysis_Power-BI/blob/main/Road%20Accident%20Data.xlsx'> Road Accident Data.xlsx </a>
 
-- **` Exported version of the dashboard visuals `** 
-- <a href='https://github.com/BrishtiSutradhar/Powerbi-blinkit-sales-analysis/blob/main/BlinkIt%20Project.pdf'>exports/BlinkIt Project.pdf</a>
 
----
+- **` Exported version of the dashboard visuals `** 
+- <a href='https://github.com/BrishtiSutradhar/Road-Accident-Analysis_Power-BI/blob/main/Road_Accident_Dashboard_Image.PNG'>exports/Road Accident Data-Analysis_Project_Dashboard.png</a>
 
 
 ---
@@ -62,7 +61,7 @@ The final dashboard provides a single, consolidated view of road accident data, 
 ## 📝 Screenshots / Samples
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Preview visuals available in [`exports/Power_BI_Foundever_Final_Report_PDF.pdf`]![![IMG_8700](https://github.com/user-attachments/assets/ee01909c-96db-4018-a7f2-d129c86f41d8)
+Preview visuals available in [`exports/Road Accident Data-Analysis_Project_Dashboard.png`]![IMG_8700](https://github.com/BrishtiSutradhar/Road-Accident-Analysis_Power-BI/blob/main/Road_Accident_Dashboard_Image.PNG)
 
 ---
 
