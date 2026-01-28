@@ -66,9 +66,6 @@ Preview visuals available in [`exports/Power_BI_Foundever_Final_Report_PDF.pdf`]
 
 ---
 
-## 📄 License
-
-MIT License. Feel free to reuse and modify for your own data reporting needs.
 
 ---
 
